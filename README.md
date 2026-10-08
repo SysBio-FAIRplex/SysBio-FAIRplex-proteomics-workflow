@@ -1,4 +1,5 @@
 # ampprot — AMP proteomics harmonization
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23069696.svg)](https://doi.org/10.5281/zenodo.23069696)
 
 Builds a single harmonized HDF5 artifact from heterogeneous AMP proteomics deliveries — Olink
 proximity-extension panels, DIA and TMT mass spectrometry, SomaScan aptamer arrays, SRM — each
